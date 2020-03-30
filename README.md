@@ -9,5 +9,6 @@ pip install -r requirements.txt
 **Windows**
 
 webp/Scripts/activate.bat
+deactivate
 
 python webpconverter <file_name> 
